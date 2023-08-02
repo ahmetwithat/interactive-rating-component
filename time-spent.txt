@@ -1,0 +1,22 @@
+---
+estimation: 6.5 hours
+  initial development: 4 hours
+    ui: 2.5 hours
+      mobile: 1.5 hours
+      responsive: 1 hour
+    js: 1.5 hours
+  accessibility and best practices: 1.5 hours
+  rutuslar: .5 hour
+---
+
+starting time: 02/08/2023 13:55
+
+session 1: 00:53:16.54
+
+starting time: 02/08/2023 15:11
+
+session 2: 01:47:09.62
+
+
+
+total elapsed time: 2:40:26.16
