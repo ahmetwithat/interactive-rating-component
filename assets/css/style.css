@@ -42,12 +42,6 @@ main {
   align-items: center;
 }
 
-/* .rating-wrapper {
-  border-radius: 1.5rem;
-  background-color: var(--dark-blue);
-  width: 22rem;
-  aspect-ratio: 1/1;
-} */
 
 .rating-component {
   border-radius: 1.5rem;
@@ -79,6 +73,10 @@ main {
 
 .user-rating-button {
   color: var(--light-grey);
+  text-decoration: none;
+  display: inline-block;
+  appearance: none;
+  cursor: pointer;
 }
 
 .user-rating-button[aria-checked="true"] {
@@ -135,7 +133,6 @@ main {
   font-size: .86em;
   margin: 0 .5rem;
   color: var(--primary-orange);
-  opacity: .9;
   vertical-align: bottom;
 }
 
@@ -180,7 +177,7 @@ main {
 }
 
 .flex-center {
-  display: /*redundant*/ flex;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -191,4 +188,4 @@ footer {
   color: var(--white);
 }
 .attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: #5875ec; }

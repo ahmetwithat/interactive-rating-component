@@ -6,7 +6,7 @@ estimation: 6.5 hours
       responsive: 1 hour
     js: 1.5 hours
   accessibility and best practices: 1.5 hours
-  rutuslar: .5 hour
+  rotuslar: .5 hour
 ---
 
 starting time: 02/08/2023 13:55
@@ -17,6 +17,10 @@ starting time: 02/08/2023 15:11
 
 session 2: 01:47:09.62
 
+starting time 02/08/2023 18:01
 
+session 3: 00:24:07.14
 
-total elapsed time: 2:40:26.16
+--initial done, initial accessibility done. time spent: 3:04:33.30
+
+total elapsed time: 3:04:33.30
